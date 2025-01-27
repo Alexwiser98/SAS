@@ -8,3 +8,5 @@ datalines;
 ;
 proc print data = survey;
 run;
+
+data;
