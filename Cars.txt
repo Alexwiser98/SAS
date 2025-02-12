@@ -1,0 +1,7 @@
+Ford	Mst	12
+Satu	CL2	29
+Toyota	Tac	19
+Ford	Fcs	24
+Hond	Civ	35
+Toyo	Hld	27
+Toyo	Cam	31

@@ -1,0 +1,5 @@
+"John Smith, Jr.",NJ,456
+"George Bush, Jr.",NY,123
+"McDonald, Sr.",NJ,789
+"Jane Doe, III",CA,234
+"Robert King, I",TX,567
